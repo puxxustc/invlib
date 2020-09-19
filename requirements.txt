@@ -1,0 +1,10 @@
+beautifulsoup4>=4.9.1
+lxml>=4.5.2
+matplotlib>=3.3.2
+more-itertools>=8.5.0
+numpy>=1.19.2
+pandas>=1.1.2
+requests>=2.24.0
+wcwidth>=0.2.5
+lsm-db>=0.6.4
+msgpack>=1.0.0
